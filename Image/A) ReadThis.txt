@@ -1,0 +1,8 @@
+1) netdata_ ...       / Container Netdata Monitoring
+2) netdata(Host)_ ... / Host Netdata Monitoring
+
+----------------------------------------------------------------
+
+1) netdata_ ... = This images starting with this name are related to Netdata which monitores the container resources. It do not measure the Host resources.
+
+2) netdata(Host)_ ... = This images starting with this name are related to Netdata which monitores Host resources.
